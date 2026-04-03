@@ -58,3 +58,6 @@ f1-analysis/
 ## ⚠️ Disclaimer
 This project is unofficial and not associated with Formula 1 companies.
 F1, FORMULA ONE and related marks are trademarks of Formula One Licensing B.V.
+
+for viewing it :
+https://f1analysis-sollll.streamlit.app/
